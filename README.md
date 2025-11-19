@@ -1,1 +1,29 @@
-Data Scientist with 4+ years of experience in designing, implementing, and deploying ML solutions. Skilled in ML algorithms (LR, SVM, RF, XGBoost), Deep Learning (R-CNN), NLP, and Computer Vision. Hands-on with large-scale data (1PB+), analytical modeling, and end-to-end production pipelines. Experienced in mining large structured/unstructured datasets, model performance analysis, and error diagnostics.I collaborate closely with engineering teams to deploy scalable AI solutions that deliver business impact
+Data Scientist with 4+ years of experience in designing, implementing, and deploying ML solutions. Skilled in ML algorithms (LR, SVM, RF, XGBoost), Deep Learning (R-CNN), NLP, and Computer Vision. Hands-on with large-scale data (1PB+), analytical modeling, and end-to-end production pipelines. Experienced in mining large structured/unstructured datasets, model performance analysis, and error diagnostics.I collaborate closely with engineering teams to deploy scalable AI solutions that deliver business impact.
+
+
+Professional with 4+ year of IT experience in Development, Implementation of software application.
+• Data Scientist with extensive experience in many challenging models/algorithms. Machine learning models like Linear Regression, Logistic Classifier, SVM, Decision Trees, XGBoost, Random Forest, R-CNN, and NLP.
+• Identify relevant data sources and sets to mine for client business needs and collect large structured/unstructured datasets and variables.
+• Experience in computer vision project, Text analysis & business value analysis.
+• Devise and utilize algorithms and models to mine, perform data and error analysis to improve models, and clean and validate data for uniformity and accuracy.
+• Analyses data for trends and patterns and interpret data with a clear objective in mind.
+• Implement analytical models into production by collaborating with software developers.
+• Handled data size of 1PB+.
+
+Some of my skills :
+
+•Data Structure  and Algorithm 
+• Programming Languages: Python, SQL, PySpark, Linux Shell Scripting 
+• Big Data & Streaming: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka, Databricks,BigQuery 
+• Data Analysis & Visualization: NumPy, Pandas, Matplotlib, SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI 
+• Statistics & Experimentation: ANOVA, Hypothesis Testing, A/B Testing 
+• Databases: MySQL, PostgreSQL, MongoDB, Cassandra 
+• Machine Learning & AI: Machine Learning Models, Supervised Learning, Unsupervised Learning, Deep Learning, Transformers, CNN, RNN, LSTM, GANs, OCR  
+• Natural Language Processing: NLTK, SpaCy, Gensim, TextBlob, BERT 
+• Frameworks & Libraries: Scikit-learn, TensorFlow, PyTorch, Keras, MXNet, OpenCV 
+• Generative AI & Agentic AI: GenAI Concepts, LLMs, Prompt Engineering, RAG, Fine Tuning LLMs (SFT, LoRA, QLoRA) , Vector DB (FAISS,ChromaDB), LangChain, LangFlow, LangGraph,Autogen, OpenAI, Hugging Face,CrewAI, Phi Data,Ollama,VertexAI  
+• AWS Services: S3, EMR, Lambda, DynamoDB, EC2, CloudWatch, IAM, Bedrock, Kendra, ECS,SageMaker 
+• MLOps: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
+• Model Deployment & Monitoring: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
+• Integration & API: RESTful APIs using FastAPI and FlaskAPI. 
+
