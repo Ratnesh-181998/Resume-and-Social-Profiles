@@ -33,33 +33,30 @@ CloudFormation,Cognito,Guardrails,OpenSearch
 RATNESH SOCIAL PROFILES
 ######################################################################################################################################################
 
-1.	Facebook - https://www.facebook.com/share/1MXYsUTu7S/
+1.	LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 
-2.	Tweeter- Take a look at Ratnesh Kumar Singh (Rattu Da) (@RatneshRanjan19): https://x.com/RatneshRanjan19?t=2iIHW-PMm-q2wk155Z7ekA&s=08
+2.	Github- https://github.com/Ratnesh-181998
 
-3.	LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
+3.	Scaler- https://www.scaler.com/academy/profile/16d9756ebf65/
 
-4.	Github- https://github.com/Ratnesh-181998
+4.	Woolf University- https://woolf.university/id/3625948911
 
-5.	Scaler- https://www.scaler.com/academy/profile/16d9756ebf65/
+5.	InterviewsBit- https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/
 
-6.	Woolf University- https://woolf.university/id/3625948911
+6.	Leetcode - https://leetcode.com/u/Ratnesh_1998/
 
-7.	InterviewsBit- https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/
+7.	HackerRank - https://www.hackerrank.com/profile/rattudacsit20211
 
-8.	Leetcode - https://leetcode.com/u/Ratnesh_1998/
+8.	HackerEarth - https://www.hackerearth.com/@ratnesh138/
 
-9.	HackerRank - https://www.hackerrank.com/profile/rattudacsit20211
+9.	GeeksforGeeks - https://www.geeksforgeeks.org/user/ratnesh1998/
 
-10.	HackerEarth - https://www.hackerearth.com/@ratnesh138/
+10.	CodeChef- https://www.codechef.com/users/ratnesh_181998
 
-11.	GeeksforGeeks - https://www.geeksforgeeks.org/user/ratnesh1998/
+11.	CodeForces - https://codeforces.com/profile/Ratnesh_181998
 
-12.	CodeChef- https://www.codechef.com/users/ratnesh_181998
+12.	Kaggle- https://www.kaggle.com/rattuda
 
-13.	CodeForces - https://codeforces.com/profile/Ratnesh_181998
+13.	Medium - https://medium.com/@rattudacsit2021gate
 
-14.	Kaggle- https://www.kaggle.com/rattuda
-
-15.	Medium - https://medium.com/@rattudacsit2021gate
 
