@@ -29,9 +29,9 @@ CloudFormation,Cognito,Guardrails,OpenSearch
 • Model Deployment & Monitoring: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
 • Integration & API: Developed and integrated RESTful APIs using FastAPI and FlaskAPI. 
 
-######################################################################################################################################################
+##########################
 RATNESH SOCIAL PROFILES
-######################################################################################################################################################
+############################
 
 1.	LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 
