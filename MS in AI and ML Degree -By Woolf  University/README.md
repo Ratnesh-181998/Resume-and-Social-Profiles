@@ -3,7 +3,7 @@
 ---
 - **Woolf University( https://woolf.university/)**: A global higher education institution that operates within the European Higher Education Area. 
 - **Key features**: It uses a collegiate system, similar to Oxford, where individual colleges are independent but part of the larger university. It offers online degrees that are widely recognized across 60+ countries due to its accreditation. 
-- **Headquarters**: San Francisco, California,USA & Address (548 Market St PMB 78990, San Francisco, CA 94104, USA ,Phone: +1 650-200-0788 )
+- **Headquarters**: San Francisco, California,USA & Address (548 Market St PMB 78990, San Francisco, CA 94104, USA ,Phone: +1 650-200-0788 ) | Direction - https://share.google/ARElZBf1gfLxIiNFs
 - **Regulatory and Licensing Office**: Malta
 - **Registrar's Office**: Täfernstrasse 16, 5405 Baden-Dättwil, Switzerland
 - **Global Presence)**: Operates with physical "Woolf Centres" which are part of its global campus network.
