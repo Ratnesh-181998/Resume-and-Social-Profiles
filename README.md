@@ -1,63 +1,65 @@
-####################
-Profile Summary 
-####################
 
-• IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
+**Profile Summary** : 
+---
+- IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
+- Data Scientist with 4+ years of experience in building, deploying, and optimizing end-to-end ML solutions at scale. Skilled in handling large datasets (1PB+), developing real-time data pipelines, and  delivering production-grade AI systems. Proficient in Machine Learning (LR, SVM, RF, XGBoost), Deep Learning (CNN/R-CNN),Computer Vision,NLP,and GeN AI with strong expertise in Python, SQL ,PySpark,    FastAPI, and AWS cloud-based architectures. Experienced in API integration, automation, and data engineering workflows to build reliable, efficient ML ecosystems. Adept with AWS services for    developing GeN AI LLM-based chatbots, vector search systems, and secure, scalable applications. Known for breaking down complex problems, improving model performance, and collaborating with cross-    functional teams to drive measurable business impact.
 
-• Data Scientist with 4+ years of experience in building, deploying, and optimizing end-to-end ML solutions at scale. Skilled in handling large datasets (1PB+), developing real-time data pipelines, and delivering production-grade AI systems. Proficient in Machine Learning (LR, SVM, RF, XGBoost), Deep Learning (CNN/R-CNN),Computer Vision,NLP,and GeN AI with strong expertise in Python, SQL ,PySpark, FastAPI, and AWS cloud-based architectures. Experienced in API integration, automation, and data engineering workflows to build reliable, efficient ML ecosystems. Adept with AWS services for developing GeN AI LLM-based chatbots, vector search systems, and secure, scalable applications. Known for breaking down complex problems, improving model performance, and collaborating with cross-functional teams to drive measurable business impact.
+- Data Scientist skilled in building, deploying, and optimizing end-to-end Machine Learning and Generative AI solutions at scale. Experienced in handling 1PB+ large datasets, developing real-time data pipelines, and delivering production-grade AI systems across cloud environments.
 
-• Data Scientist skilled in building, deploying, and optimizing end-to-end Machine Learning and Generative AI solutions at scale. Experienced in handling 1PB+ large datasets, developing real-time data pipelines, and delivering production-grade AI systems across cloud environments.
+- Proficient in Machine Learning (Linear/Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost), Deep Learning (CNN, R-CNN), NLP, Computer Vision, and Generative AI. Strong hands-on expertise in Python, SQL, PySpark, FastAPI, and AWS cloud architectures.
 
-• Proficient in Machine Learning (Linear/Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost), Deep Learning (CNN, R-CNN), NLP, Computer Vision, and Generative AI. Strong hands-on expertise in Python, SQL, PySpark, FastAPI, and AWS cloud architectures.
+- Experienced in API development & integration, automation, and data engineering workflows to build reliable and efficient ML ecosystems. Well-versed with AWS services for developing GenAI LLM-based chatbots, vector search systems, and secure, scalable enterprise applications.
 
-• Experienced in API development & integration, automation, and data engineering workflows to build reliable and efficient ML ecosystems. Well-versed with AWS services for developing GenAI LLM-based chatbots, vector search systems, and secure, scalable enterprise applications.
+- Known for breaking down complex problems, conducting in-depth data analysis, optimizing model performance, and collaborating with cross-functional teams to drive measurable business outcomes.
 
-• Known for breaking down complex problems, conducting in-depth data analysis, optimizing model performance, and collaborating with cross-functional teams to drive measurable business outcomes.
+---
 
-###########################
-Key Highlights : 
-###########################
+**Key Highlights** : 
+---
+- Extensive experience in designing and implementing diverse ML algorithms such as LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, and advanced NLP techniques.
 
-• Extensive experience in designing and implementing diverse ML algorithms such as LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, and advanced NLP techniques.
+- Expertise in identifying, collecting, and mining large structured/unstructured datasets for business insights.
 
-• Expertise in identifying, collecting, and mining large structured/unstructured datasets for business insights.
+- Strong background in Computer Vision, Text Analytics, and business value analysis.
 
-• Strong background in Computer Vision, Text Analytics, and business value analysis.
+- Skilled in algorithm design, model evaluation, error analysis, data cleaning, and data validation for uniformity and accuracy.
 
-• Skilled in algorithm design, model evaluation, error analysis, data cleaning, and data validation for uniformity and accuracy.
+- Ability to interpret data trends and patterns with clear, actionable objectives.
 
-• Ability to interpret data trends and patterns with clear, actionable objectives.
+- Experience in deploying ML & GenAI models into production in close collaboration with engineering teams.
 
-• Experience in deploying ML & GenAI models into production in close collaboration with engineering teams.
+- Successfully handled petabyte-scale (1PB+) data in real-world environments.
+  
+---
 
-• Successfully handled petabyte-scale (1PB+) data in real-world environments.
-
-#####################
-Technical Skillset :
-#####################
-
-•Data Structure  and Algorithm 
-•Programming Languages: Python, SQL, PySpark, Linux Shell Scripting 
-• Big Data & Streaming: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
-• Data Analysis & Visualization: NumPy, Pandas, Matplotlib,SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI,QlikSense 
-• Probability ,Statistics & Experimentation: ANOVA, Hypothesis Testing, A/B Testing 
-• Databases: MySQL, PostgreSQL, MongoDB, Cassandra 
-• Machine Learning & AI Models: Supervised Learning (Linear Regression,Logistic Regression,DecisionTree,Random Forest,SVM,Naive Bayes,k-NN,Gradient     Boosting Machines,XGBoost,LightGBM),Unsupervised Learning (k-Means Clustering,Hierarchical Clustering,DBSCAN,PCA,t-SNE,Autoencoder,GMM),
-  Time Series/Forecasting (ARIMA, SARIMA, Facebook Prophet)
-•Deep Learning Techniques: Transformers, CNN, RNN, LSTM, GANs,OCR
-• Natural Language Processing: NLTK, SpaCy, Gensim, TextBlob, BERT 
-• Frameworks & Libraries: Scikit-learn, TensorFlow, PyTorch, Keras, MXNet, OpenCV,Docling 
-• Generative AI & Agentic AI: GenAI Concepts, LLMs, Prompt Engineering, RAG, Fine Tuning LLMs (SFT, LoRA, QLoRA) , VectorDB(FAISS,ChromaDB,Pinecone),    LangChain, LangFlow, LangGraph,Autogen,OpenAI,HuggingFace,CrewAI, PhiData,Ollama,VertexAI,Groq ,LlamaIndex 
-• AWS Services: S3, EMR, Lambda, DynamoDB, EC2, CloudWatch, IAM, Bedrock, Kendra,ECS,SageMaker,Redshift,Glue,ATHENA,SNS,SQS,QuickSight,CloudWatch,
+**Technical Skillset**:
+---
+- Data Structure  and Algorithm 
+- Programming Languages: Python, SQL, PySpark, Linux Shell Scripting 
+- Big Data & Streaming: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
+- Data Analysis & Visualization: NumPy, Pandas, Matplotlib,SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI,QlikSense 
+- Probability ,Statistics & Experimentation: ANOVA, Hypothesis Testing, A/B Testing 
+- Databases: MySQL, PostgreSQL, MongoDB, Cassandra 
+- Machine Learning & AI Models: Supervised Learning (Linear Regression,Logistic Regression,DecisionTree,Random Forest,SVM,Naive Bayes,k-NN,Gradient     Boosting Machines,XGBoost,LightGBM),Unsupervised Learning (k-Means Clustering,Hierarchical Clustering,DBSCAN,PCA,t-SNE,Autoencoder,GMM),Time Series/Forecasting (ARIMA, SARIMA, Facebook Prophet)
+- Deep Learning Techniques: Transformers, CNN, RNN, LSTM, GANs,OCR
+- Natural Language Processing: NLTK, SpaCy, Gensim, TextBlob, BERT 
+- AI Frameworks & Libraries: Scikit-learn, TensorFlow, PyTorch, Keras, MXNet, OpenCV, Docling 
+- Generative AI & LLM : LLM Architectures,Prompt Engineering,RAG, Fine-Tuning (SFT, LoRA, QLoRA), Model Optimization & Quantization (GGUF,4bit/8
+bit), OpenAI GPT Models, Hugging Face Ecosystem, Groq API, Vertex AI, Ollama, Llama3, Mixtral Models, Claude Models (Anthropic). 
+- Vector Databases & Embeddings : FAISS, ChromaDB, Pinecone, Embedding Models (OpenAI, HF, BGE, E5), Hybrid Search (BM25 + Vector), Reranking 
+(Cohere/BGE), Chunking Strategies 
+- Agentic AI & Frameworks : LangChain, LangGraph, LangFlow, CrewAI, PhiData(Agno),OpenAI Agents SDK, Autogen, LlamaIndex, MCP(Client/Server), 
+LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-Agent Workflows, Agent Orchestration, FastAPI Integrations) 
+- AWS Services: S3, EMR, Lambda, DynamoDB, EC2, CloudWatch, IAM, Bedrock, Kendra,ECS,SageMaker,Redshift,Glue,ATHENA,SNS,SQS,QuickSight,CloudWatch,
   API Gateway,CloudFormation,Cognito,Guardrails,OpenSearch
-• MLOps: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
-• Model Deployment & Monitoring: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
-• Integration & API: Developed and integrated RESTful APIs using FastAPI and FlaskAPI. 
+- MLOps: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
+- Model Deployment & Monitoring: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
+- Integration & API: Developed and integrated RESTful APIs using FastAPI and FlaskAPI.
+  
+---
 
-##########################
-Technical Social Profiles
-############################
-
+**Technical Social Profiles**:
+---
 1.	LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 
 2.	Github- https://github.com/Ratnesh-181998
@@ -90,8 +92,10 @@ Technical Social Profiles
     
 18. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
 
+---
 
-############## Streamlit APP ################
+**Streamlit APP**
+---
 ## 🌐🎬 Live Demo 🚀 Try it now:
 
 Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
@@ -125,7 +129,7 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 
 14. https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
 
-
+---
    
     
 
