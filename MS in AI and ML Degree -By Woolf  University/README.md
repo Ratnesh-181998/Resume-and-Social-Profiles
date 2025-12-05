@@ -8,6 +8,9 @@
 - **Registrar's Office**: Täfernstrasse 16, 5405 Baden-Dättwil, Switzerland
 - **Global Presence)**: Operates with physical "Woolf Centres" which are part of its global campus network.
 - **Accreditation**: It is accredited by the Malta Further and Higher Education Authority (MFHEA).
+- **LinkedIn** : https://www.linkedin.com/school/woolfuniversity/posts/?feedView=all
+- **X Platefrom** : https://x.com/woolfuniversity
+- **YOU TUBE** : https://www.youtube.com/@woolfuniversity
 -  Woolf is a global collegiate Higher Education Institution accredited in Europe (license 2019-015), and all Woolf colleges adhere to the same Policy of Quality Assurance and share the same standards of accreditation. Courses with ECTS credits are specifically designated as such. Courses offered by Woolf Switzerland are specifically designated as such. Courses offered by Woolf Wisconsin are specifically designated as such.
 - Earn accredited bachelor's, master's, and doctoral degrees recognized in 60+ countries. Flexible online learning with ECTS credits supporting global mobility and career advancement.
 ---
