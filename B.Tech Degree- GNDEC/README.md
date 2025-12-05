@@ -9,6 +9,7 @@
 - **Affiliations**: Has been affiliated with **Punjab University and Punjab Technical University (now IKGPTU : https://ptu.ac.in/)**, as well as approved by AICTE and accredited by NAAC/NBA.
   
 -**B.Tech Degree in Information Technology**
+
   <img width="1553" height="1129" alt="image" src="https://github.com/user-attachments/assets/323c1069-6cf5-4788-b99b-320a27b12d68" />
   
 ---
