@@ -1,9 +1,19 @@
 
-**Woolf | Globally Recognized Accredited Degrees Online**
+***Woolf | Globally Recognized Accredited Degrees Online***
 ---
-- **Woolf University**: https://woolf.university/
+- **Woolf University( https://woolf.university/)**: A global higher education institution that operates within the European Higher Education Area. 
+- **Key features**: It uses a collegiate system, similar to Oxford, where individual colleges are independent but part of the larger university. It offers online degrees that are widely recognized across 60+ countries due to its accreditation. 
+- **Headquarters**: San Francisco, California,USA
+- **Regulatory and Licensing Office**: Malta
+- **Registrar's Office**: Täfernstrasse 16, 5405 Baden-Dättwil, Switzerland
+- **Global Presence)**: Operates with physical "Woolf Centres" which are part of its global campus network.
+- **Accreditation**: It is accredited by the Malta Further and Higher Education Authority (MFHEA).
 -  Woolf is a global collegiate Higher Education Institution accredited in Europe (license 2019-015), and all Woolf colleges adhere to the same Policy of Quality Assurance and share the same standards of accreditation. Courses with ECTS credits are specifically designated as such. Courses offered by Woolf Switzerland are specifically designated as such. Courses offered by Woolf Wisconsin are specifically designated as such.
-- Earn accredited bachelor's, master's, and doctoral degrees recognized in 50+ countries. Flexible online learning with ECTS credits supporting global mobility and career advancement.
+- Earn accredited bachelor's, master's, and doctoral degrees recognized in 60+ countries. Flexible online learning with ECTS credits supporting global mobility and career advancement.
+---
+
+***Master of Science in Computer Science***
+---
 - **Master of Science in Computer Science: Artificial Intelligence and Machine Learning** : https://woolf.university/id/3625948911
 - Woolf certifies that Ratnesh Kumar is a graduate of Scaler Neovarsity, a constituent member college of Woolf, which is a licensed Higher Education Institution in Europe.
 - **Scaler Profile** : https://www.scaler.com/academy/profile/16d9756ebf65/
