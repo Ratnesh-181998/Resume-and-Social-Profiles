@@ -1,5 +1,5 @@
 
-**Profile Summary** : 
+***Profile Summary*** : 
 ---
 - IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
 - Data Scientist with 4+ years of experience in building, deploying, and optimizing end-to-end ML solutions at scale. Skilled in handling large datasets (1PB+), developing real-time data pipelines, and  delivering production-grade AI systems. Proficient in Machine Learning (LR, SVM, RF, XGBoost), Deep Learning (CNN/R-CNN),Computer Vision,NLP,and GeN AI with strong expertise in Python, SQL ,PySpark,    FastAPI, and AWS cloud-based architectures. Experienced in API integration, automation, and data engineering workflows to build reliable, efficient ML ecosystems. Adept with AWS services for    developing GeN AI LLM-based chatbots, vector search systems, and secure, scalable applications. Known for breaking down complex problems, improving model performance, and collaborating with cross-    functional teams to drive measurable business impact.
@@ -14,7 +14,7 @@
 
 ---
 
-**Key Highlights** : 
+***Key Highlights*** : 
 ---
 - Extensive experience in designing and implementing diverse ML algorithms such as LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, and advanced NLP techniques.
 
@@ -32,29 +32,29 @@
   
 ---
 
-**Technical Skillset**:
+***Technical Skillset***:
 ---
-- Data Structure  and Algorithm 
-- Programming Languages: Python, SQL, PySpark, Linux Shell Scripting 
-- Big Data & Streaming: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
-- Data Analysis & Visualization: NumPy, Pandas, Matplotlib,SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI,QlikSense 
-- Probability ,Statistics & Experimentation: ANOVA, Hypothesis Testing, A/B Testing 
-- Databases: MySQL, PostgreSQL, MongoDB, Cassandra 
-- Machine Learning & AI Models: Supervised Learning (Linear Regression,Logistic Regression,DecisionTree,Random Forest,SVM,Naive Bayes,k-NN,Gradient     Boosting Machines,XGBoost,LightGBM),Unsupervised Learning (k-Means Clustering,Hierarchical Clustering,DBSCAN,PCA,t-SNE,Autoencoder,GMM),Time Series/Forecasting (ARIMA, SARIMA, Facebook Prophet)
+- **Data Structure  and Algorithm** 
+- **Programming Languages**: Python, SQL, PySpark, Linux Shell Scripting 
+- **Big Data & Streaming**: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
+- **Data Analysis & Visualization**: NumPy, Pandas, Matplotlib,SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI,QlikSense 
+- **Probability ,Statistics & Experimentation**: ANOVA, Hypothesis Testing, A/B Testing 
+- **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra 
+- **Machine Learning & AI Models**: Supervised Learning (Linear Regression,Logistic Regression,DecisionTree,Random Forest,SVM,Naive Bayes,k-NN,Gradient     Boosting Machines,XGBoost,LightGBM),Unsupervised Learning (k-Means Clustering,Hierarchical Clustering,DBSCAN,PCA,t-SNE,Autoencoder,GMM),Time Series/Forecasting (ARIMA, SARIMA, Facebook Prophet)
 - Deep Learning Techniques: Transformers, CNN, RNN, LSTM, GANs,OCR
 - Natural Language Processing: NLTK, SpaCy, Gensim, TextBlob, BERT 
-- AI Frameworks & Libraries: Scikit-learn, TensorFlow, PyTorch, Keras, MXNet, OpenCV, Docling 
-- Generative AI & LLM : LLM Architectures,Prompt Engineering,RAG, Fine-Tuning (SFT, LoRA, QLoRA), Model Optimization & Quantization (GGUF,4bit/8
+- **AI Frameworks & Libraries**: Scikit-learn, TensorFlow, PyTorch, Keras, MXNet, OpenCV, Docling 
+- **Generative AI & LLM** : LLM Architectures,Prompt Engineering,RAG, Fine-Tuning (SFT, LoRA, QLoRA), Model Optimization & Quantization (GGUF,4bit/8
 bit), OpenAI GPT Models, Hugging Face Ecosystem, Groq API, Vertex AI, Ollama, Llama3, Mixtral Models, Claude Models (Anthropic). 
 - Vector Databases & Embeddings : FAISS, ChromaDB, Pinecone, Embedding Models (OpenAI, HF, BGE, E5), Hybrid Search (BM25 + Vector), Reranking 
 (Cohere/BGE), Chunking Strategies 
-- Agentic AI & Frameworks : LangChain, LangGraph, LangFlow, CrewAI, PhiData(Agno),OpenAI Agents SDK, Autogen, LlamaIndex, MCP(Client/Server), 
+- **Agentic AI & Frameworks**: LangChain, LangGraph, LangFlow, CrewAI, PhiData(Agno),OpenAI Agents SDK, Autogen, LlamaIndex, MCP(Client/Server), 
 LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-Agent Workflows, Agent Orchestration, FastAPI Integrations) 
 - AWS Services: S3, EMR, Lambda, DynamoDB, EC2, CloudWatch, IAM, Bedrock, Kendra,ECS,SageMaker,Redshift,Glue,ATHENA,SNS,SQS,QuickSight,CloudWatch,
   API Gateway,CloudFormation,Cognito,Guardrails,OpenSearch
-- MLOps: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
-- Model Deployment & Monitoring: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
-- Integration & API: Developed and integrated RESTful APIs using FastAPI and FlaskAPI.
+- **MLOps**: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
+- **Model Deployment & Monitoring**: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
+- **Integration & API**: Developed and integrated RESTful APIs using FastAPI and FlaskAPI.
   
 ---
 
@@ -94,7 +94,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 ---
 
-**Streamlit APP**
+***Streamlit APP***
 ---
 ## 🌐🎬 Live Demo 🚀 Try it now:
 
