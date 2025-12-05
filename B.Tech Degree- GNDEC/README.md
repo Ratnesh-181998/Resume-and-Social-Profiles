@@ -4,7 +4,7 @@
 - Guru Nanak Dev Engineering College is one of the oldest engineering institutions of the northern region situated at Gill Park, Ludhiana, Punjab, India. The foundation stone of the college was laid on
   **8 April 1956 by Hon'ble Dr. Rajendra Prasad, the first President of India**.
 - **College website** : https://www.gndec.ac.in/ 
-- **Direction on Google Map ** ; https://share.google/HGpevnSrrsPshAmLo
+- **Direction on Google Map** ; https://share.google/HGpevnSrrsPshAmLo
 - **Address** : Guru Nanak Dev Engineering College,Gill Park, Gill Road, Ludhiana – 141006, Punjab ,India
 - **Affiliations**: Has been affiliated with **Punjab University and Punjab Technical University (now IKGPTU : https://ptu.ac.in/)**, as well as approved by AICTE and accredited by NAAC/NBA.
   
