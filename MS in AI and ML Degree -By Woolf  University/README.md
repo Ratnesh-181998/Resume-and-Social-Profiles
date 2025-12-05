@@ -1,5 +1,5 @@
 
-***Woolf | Globally Recognized Accredited Degrees Online**
+**Woolf | Globally Recognized Accredited Degrees Online**
 ---
 - **Woolf University**: https://woolf.university/
 -  Woolf is a global collegiate Higher Education Institution accredited in Europe (license 2019-015), and all Woolf colleges adhere to the same Policy of Quality Assurance and share the same standards of accreditation. Courses with ECTS credits are specifically designated as such. Courses offered by Woolf Switzerland are specifically designated as such. Courses offered by Woolf Wisconsin are specifically designated as such.
