@@ -1,6 +1,11 @@
-
+---
 **GrowDataSkills** : https://www.growdataskills.com/
-
+- Phone: +91 9893181542 ,E-mail: support@growdataskills.com ,Location: Gurgaon,India
+- **YouTube** : https://www.youtube.com/@shashank_mishra
+- **LinkedIn** : https://www.linkedin.com/in/shashank219/
+  
+---
+  
 **Certificates_Azure Data Analytics - Basic To Advance on April 7 2024**
 ---
 <img width="1841" height="1321" alt="image" src="https://github.com/user-attachments/assets/f1eaf6b5-c8af-4c4b-bec9-fd0b99fbb735" />
