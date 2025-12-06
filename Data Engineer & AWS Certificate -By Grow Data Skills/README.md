@@ -1,6 +1,9 @@
 
 **GrowDataSkills** : https://www.growdataskills.com/
-
+- Phone: +91 9893181542 ,E-mail: support@growdataskills.com ,Location: Gurgaon,India
+- **YouTube** : https://www.youtube.com/@shashank_mishra
+- **LinkedIn** : https://www.linkedin.com/in/shashank219/
+  
 **Certificates_Data Engineering(AWS)- Grow Data Skills 4th February 2024**
 ---
 <img width="1638" height="1023" alt="image" src="https://github.com/user-attachments/assets/8a9cd063-6cac-4b17-a58e-3da15db57346" />
