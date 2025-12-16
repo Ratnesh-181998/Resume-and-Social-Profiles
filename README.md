@@ -136,6 +136,8 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 16. https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
     
 17. https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
+    
+18. https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/
 
 
 
