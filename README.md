@@ -88,12 +88,13 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 15.	Medium - https://medium.com/@rattudacsit2021gate
 16.	Stackoverflow - https://stackoverflow.com/users/32068937/ratnesh-kumar?tab=profile
+17.	HuggingFace - https://huggingface.co/RattuDa98
     
-17. Render (Backend API ) : https://dashboard.render.com/project/prj-d4kore8gjchc73aall0g
+18. Render (Backend API ) : https://dashboard.render.com/project/prj-d4kore8gjchc73aall0g
     
-18. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
+19. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
 
-19. Supabase Cloud : https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
+20. Supabase Cloud : https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
 
 
 ---
