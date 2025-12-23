@@ -23,7 +23,7 @@ Section‑C (Machine Learning)
 3. MLOps + FastAPI + Docker + AWS services
 
 Section‑D (Data Analyst & Data‑science core)
-1. Interview questions & Algorithms
+1. Data Structure & Algorithms
 2. Python, Python libraries (NumPy, Pandas, Matplotlib, SciPy, Seaborn) + EDA
 3. Dashboard tools & Power BI, Tableau, Qlik Sense, Excel
 
@@ -91,7 +91,7 @@ Section‑E (Data Engineering & Data warehouse)
 
 📊 Section‑D (Data Analyst & Data‑science core)
 
-1. Interview questions & Algorithms – Coding & problem‑solving prep (data structures, DSA).
+1. Data Structure & Algorithms – Coding & problem‑solving prep (data structures, DSA).
 2. Python & libraries – NumPy (arrays), Pandas (data manipulation), Matplotlib/Seaborn (visualization), SciPy (scientific computing) + EDA (Exploratory Data Analysis).
 3. Dashboard tools – Power BI, Tableau, Qlik Sense, Excel for visualizing data & BI.
 
@@ -187,7 +187,7 @@ Ratnesh Kumar Singh’s Full Stack Data Scientist / AI‑ML Engineer profile.
 
 📊 Section‑D (Data Analyst & Data‑science core)
 
-1. Interview questions & Algorithms
+1. Data Structure & Algorithms
     - Data Structures (arrays, linked lists, trees) & Algorithms (sorting, searching, dynamic programming).
     - Problem‑solving frameworks: understand constraints, optimize time/space complexity.
 
@@ -226,4 +226,5 @@ Ratnesh Kumar Singh’s Full Stack Data Scientist / AI‑ML Engineer profile.
     - EMR: Managed Hadoop/Spark cluster for big‑data processing.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
