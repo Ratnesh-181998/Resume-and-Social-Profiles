@@ -40,8 +40,8 @@
 - **Data Analysis & Visualization**: NumPy, Pandas, Matplotlib,SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI,QlikSense 
 - **Probability ,Statistics & Experimentation**: ANOVA, Hypothesis Testing, A/B Testing 
 - **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra 
-- **Machine Learning & AI Models**: Supervised Learning (Linear Regression,Logistic Regression,DecisionTree,Random Forest,SVM,Naive Bayes,k-NN,Gradient     Boosting Machines,XGBoost,LightGBM),Unsupervised Learning (k-Means Clustering,Hierarchical Clustering,DBSCAN,PCA,t-SNE,Autoencoder,GMM),Time Series/Forecasting (ARIMA, SARIMA, Facebook Prophet)
-- Deep Learning Techniques: Transformers, CNN, RNN, LSTM, GANs,OCR
+- **Machine Learning & AI Models**: Supervised Learning (Linear Regression,Logistic Regression,DecisionTree,Random Forest,SVM,Naive Bayes,k-NN,Gradient Boosting Machines,XGBoost,LightGBM),Unsupervised Learning (k-Means Clustering,Hierarchical Clustering,DBSCAN,PCA,t-SNE,Autoencoder,GMM),Reinforcement Learning,Time Series/Forecasting (ARIMA, SARIMA, Facebook Prophet),Remcomadation System 
+- Deep Learning Techniques & Computer Vision: Transformers, CNN, RNN, LSTM, GANs,OCR,YOLOv8 ,Object Decetion,Classification,Segmentation 
 - Natural Language Processing: NLTK, SpaCy, Gensim, TextBlob, BERT 
 - **AI Frameworks & Libraries**: Scikit-learn, TensorFlow, PyTorch, Keras, MXNet, OpenCV, Docling 
 - **Generative AI & LLM** : LLM Architectures,Prompt Engineering,RAG, Fine-Tuning (SFT, LoRA, QLoRA), Model Optimization & Quantization (GGUF,4bit/8
