@@ -91,7 +91,7 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 
 1. https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/
 2. https://appudtzei3tyyttd6xjhwur.streamlit.app/
-3. https://github.com/Ratnesh-181998/GenAI-Music-Composer
+3. https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/
 4. https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/
 5. https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/
 
