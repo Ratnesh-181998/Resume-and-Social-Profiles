@@ -91,7 +91,7 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 
 1. https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/
 2. https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/
-3. https://agentic-rag-anime-recommender-system-dhsvh7zgrejeed2ghprr3d.streamlit.app/
+3. https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/
 4. https://appudtzei3tyyttd6xjhwur.streamlit.app/
 5. https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/
 6. https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/
