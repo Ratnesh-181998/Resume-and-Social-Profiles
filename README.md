@@ -1,4 +1,13 @@
 
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=Profile%20Summary&fontSize=60&fontColor=ffffff&animation=fadeIn" 
+    width="100%"
+  />
+</div>
+
+---
+
 ***Profile Summary*** : 
 ---
 - IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
