@@ -87,12 +87,8 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
   />
 </div>
 
-
-
-**Technical Social Profiles**:
-
-
 ---
+
 1. LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 2. Github- https://github.com/Ratnesh-181998   
 3. Streamlit - https://share.streamlit.io/user/ratnesh-181998
@@ -114,6 +110,21 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 19. Supabase Cloud (Database) : https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
 
 ---
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Streamlit%20Social%20Profiles&fontSize=56&fontColor=ffffff&animation=fadeIn" 
+    width="100%"
+  />
+</div>
+
+<div align="center">
+
+
+**Streamlit Applications**
+
+</div>
+
 
 ***Streamlit APP***
 ---
