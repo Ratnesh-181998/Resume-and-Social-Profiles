@@ -14,7 +14,7 @@
   
 - Experienced across the full AI/ML lifecycle—from data engineering, model development, and evaluation to API-driven deployment, cloud infrastructure, and monitoring. Strong hands-on expertise in Machine Learning (LR, SVM, Random Forest, XGBoost,SVM, Decision Trees,ARIMA, SARIMA, Timeserie,Forecasting,RL), Deep Learning (CNN, RNN, GANs, Transformers, YOLOv8),Neural Network,Computer Vision, NLP, Generative AI and Agentic AI.
   
-- Actively building Agentic AI ,GenAI ,LLM-based applications, including RAG pipelines, VectorDB,Huggingface Embedding ,FAISS,LangChain , LangGraph,CrewAI,Vector search systems, document-aware assistants, and multi-agent/agentic AI workflows. Skilled in API development, automation, and scalable ML/LLM pipelines using Python, FastAPI, SQL, PySpark, Docker, and cloud-native services.
+- Actively building Agentic AI ,GenAI ,LLM-based applications, including RAG pipelines, VectorDB,Huggingface Embedding ,FAISS,LangChain , LangGraph,CrewAI,Vector search systems, document-aware assistants, and multi-agent/agentic AI workflows. Skilled in API development, automation, and scalable ML/LLM pipelines using Python, FlaskAPI/FastAPI, SQL, PySpark, Docker, and cloud-native services.
   
 - Well-versed in designing secure, scalable, and production-ready AI systems across AWS and GCP, integrating CI/CD, observability, and MLOps/LLMOps best practices. Known for breaking down complex problems, optimizing model performance, and collaborating with cross-functional teams to deliver measurable business impact.
 
