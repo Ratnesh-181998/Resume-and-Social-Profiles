@@ -120,13 +120,12 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 <div align="center">
 
-**Streamlit Applications 🌐🎬 Live Demo 🚀 Try it now**
+**Streamlit Applications**
 
 </div>
 
-
-***Streamlit APP***
 ---
+
 ## 🌐🎬 Live Demo 🚀 Try it now:
 
 Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
