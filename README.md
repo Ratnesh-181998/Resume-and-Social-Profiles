@@ -9,38 +9,54 @@
 ---
 
 - IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
-- Data Scientist (AI/ML Engineer) with 4+ years of experience in building, deploying, and optimizing end-to-end ML solutions at scale. Skilled in handling large datasets (1PB+), developing real-time data pipelines, and  delivering production-grade AI systems. Proficient in Machine Learning (LR, SVM, RF, XGBoost), Deep Learning (CNN/R-CNN),Computer Vision,NLP,and GeN AI with strong expertise in Python, SQL ,PySpark,    FastAPI, and AWS cloud-based architectures. Experienced in API integration, automation, and data engineering workflows to build reliable, efficient ML ecosystems. Adept with AWS services for    developing GeN AI LLM-based chatbots, vector search systems, and secure, scalable applications. Known for breaking down complex problems, improving model performance, and collaborating with cross-    functional teams to drive measurable business impact.
-
-- Data Scientist (AI/ML Engineer) skilled in building, deploying, and optimizing end-to-end Machine Learning and Generative AI solutions at scale. Experienced in handling 1PB+ large datasets, developing real-time data pipelines, and delivering production-grade AI systems across cloud environments.
-
-- Proficient in Machine Learning (Linear/Logistic Regression, SVM, Decision Trees, Random Forest, XGBoost), Deep Learning (CNN, R-CNN), NLP, Computer Vision, and Generative AI. Strong hands-on expertise in Python, SQL, PySpark, FastAPI, and AWS cloud architectures.
-
-- Experienced in API development & integration, automation, and data engineering workflows to build reliable and efficient ML ecosystems. Well-versed with AWS services for developing GenAI LLM-based chatbots, vector search systems, and secure, scalable enterprise applications.
-
-- Known for breaking down complex problems, conducting in-depth data analysis, optimizing model performance, and collaborating with cross-functional teams to drive measurable business outcomes.
+  
+- Data Scientist (AI/ML Engineer) with 4+ years of experience building, deploying, and optimizing end-to-end Machine Learning, Deep Learning, Generative AI, and Agentic AI systems at scale. Proven expertise in handling petabyte-scale (1PB+) datasets, developing real-time data pipelines, and delivering production-grade AI solutions across cloud environments.
+  
+- Experienced across the full AI/ML lifecycle—from data engineering, model development, and evaluation to API-driven deployment, cloud infrastructure, and monitoring. Strong hands-on expertise in Machine Learning (LR, SVM, Random Forest, XGBoost,SVM, Decision Trees,ARIMA, SARIMA, Timeserie,Forecasting,RL), Deep Learning (CNN, RNN, GANs, Transformers, YOLOv8),Neural Network,Computer Vision, NLP, Generative AI and Agentic AI.
+  
+- Actively building Agentic AI ,GenAI ,LLM-based applications, including RAG pipelines, VectorDB,Huggingface Embedding ,FAISS,LangChain , LangGraph,CrewAI,Vector search systems, document-aware assistants, and multi-agent/agentic AI workflows. Skilled in API development, automation, and scalable ML/LLM pipelines using Python, FastAPI, SQL, PySpark, Docker, and cloud-native services.
+  
+- Well-versed in designing secure, scalable, and production-ready AI systems across AWS and GCP, integrating CI/CD, observability, and MLOps/LLMOps best practices. Known for breaking down complex problems, optimizing model performance, and collaborating with cross-functional teams to deliver measurable business impact.
 
 ---
 
-***Key Highlights*** : 
----
-- Extensive experience in designing and implementing diverse ML algorithms such as LR, SVM, Decision Trees, Random Forest, XGBoost, R-CNN, and advanced NLP techniques.
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=Key%20Highlights&fontSize=60&fontColor=ffffff&animation=fadeIn" 
+    width="100%"
+  />
+</div>
 
+---
+
+- 4+ years of hands-on experience delivering  Machine Learning (LR, SVM, Random Forest, XGBoost,SVM, Decision Trees,ARIMA, SARIMA, Timeserie,Forecasting,RL), Deep Learning (CNN, RNN, GANs, Transformers, YOLOv8),Neural Network,Computer Vision, NLP, Generative AI and Agentic AI solutions.
+  
+- Strong background in Computer Vision, NLP,Text Analytics,Generative AI ,Agentic AI systems and business value analysis.
+  
+- Experience in deploying ML & GenAI models into production in close collaboration with engineering teams.
+  
+- Built and deployed Agentic AI ,GenAI ,LLM-based applications, including RAG pipelines, VectorDB,Huggingface Embedding ,FAISS,LangChain , LangGraph,CrewAI,vector search platforms, and agentic workflows.
+  
 - Expertise in identifying, collecting, and mining large structured/unstructured datasets for business insights.
-
-- Strong background in Computer Vision, Text Analytics, and business value analysis.
 
 - Skilled in algorithm design, model evaluation, error analysis, data cleaning, and data validation for uniformity and accuracy.
 
 - Ability to interpret data trends and patterns with clear, actionable objectives.
 
-- Experience in deploying ML & GenAI models into production in close collaboration with engineering teams.
-
-- Successfully handled petabyte-scale (1PB+) data in real-world environments.
+- Successfully handled petabyte-scale (1PB+) data in real-world production environments.
   
 ---
 
-***Technical Skillset***:
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=Technical%20Skillset&fontSize=60&fontColor=ffffff&animation=fadeIn" 
+    width="100%"
+  />
+</div>
+
+
 ---
+
 - **Data Structure  and Algorithm** 
 - **Programming Languages**: Python, SQL, PySpark, Linux Shell Scripting 
 - **Big Data & Streaming**: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
@@ -65,7 +81,10 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
   
 ---
 
+
 **Technical Social Profiles**:
+
+
 ---
 1. LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 2. Github- https://github.com/Ratnesh-181998   
