@@ -1,9 +1,11 @@
+
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=Profile%20Summary&fontSize=60&fontColor=ffffff&animation=fadeIn" 
     width="100%"
   />
 </div>
+
 ---
 
 - IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
@@ -17,12 +19,14 @@
 - Well-versed in designing secure, scalable, and production-ready AI systems across AWS and GCP, integrating CI/CD, observability, and MLOps/LLMOps best practices. Known for breaking down complex problems, optimizing model performance, and collaborating with cross-functional teams to deliver measurable business impact.
 
 ---
+
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=Key%20Highlights&fontSize=60&fontColor=ffffff&animation=fadeIn" 
     width="100%"
   />
 </div>
+
 ---
 
 - 4+ years of hands-on experience delivering  Machine Learning (LR, SVM, Random Forest, XGBoost,SVM, Decision Trees,ARIMA, SARIMA, Timeserie,Forecasting,RL), Deep Learning (CNN, RNN, GANs, Transformers, YOLOv8),Neural Network,Computer Vision, NLP, Generative AI and Agentic AI solutions.
@@ -42,12 +46,14 @@
 - Successfully handled petabyte-scale (1PB+) data in real-world production environments.
   
 ---
+
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=Technical%20Skillset&fontSize=60&fontColor=ffffff&animation=fadeIn" 
     width="100%"
   />
 </div>
+
 ---
 
 - **Data Structure  and Algorithm** 
@@ -76,10 +82,11 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=Technical%20Social%20&ProfilesfontSize=60&fontColor=ffffff&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Technical%20Social%20Profiles&fontSize=56&fontColor=ffffff&animation=fadeIn" 
     width="100%"
   />
 </div>
+
 
 
 **Technical Social Profiles**:
