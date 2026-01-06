@@ -113,15 +113,14 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Streamlit%20Social%20Profiles&fontSize=56&fontColor=ffffff&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Streamlit%20APP%20Portfolio&fontSize=56&fontColor=ffffff&animation=fadeIn" 
     width="100%"
   />
 </div>
 
 <div align="center">
 
-
-**Streamlit Applications**
+**Streamlit Applications 🌐🎬 Live Demo 🚀 Try it now**
 
 </div>
 
