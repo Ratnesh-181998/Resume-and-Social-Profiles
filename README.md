@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 - IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
   
 - Data Scientist (AI/ML Engineer) with 4+ years of experience building, deploying, and optimizing end-to-end Machine Learning, Deep Learning, Generative AI, and Agentic AI systems at scale. Proven expertise in handling petabyte-scale (1PB+) datasets, developing real-time data pipelines, and delivering production-grade AI solutions across cloud environments.
@@ -28,7 +27,6 @@
 </div>
 
 ---
-
 - 4+ years of hands-on experience delivering  Machine Learning (LR, SVM, Random Forest, XGBoost,SVM, Decision Trees,ARIMA, SARIMA, Timeserie,Forecasting,RL), Deep Learning (CNN, RNN, GANs, Transformers, YOLOv8),Neural Network,Computer Vision, NLP, Generative AI and Agentic AI solutions.
   
 - Strong background in Computer Vision, NLP,Text Analytics,Generative AI ,Agentic AI systems and business value analysis.
@@ -55,7 +53,6 @@
 </div>
 
 ---
-
 - **Data Structure  and Algorithm** 
 - **Programming Languages**: Python, SQL, PySpark, Linux Shell Scripting 
 - **Big Data & Streaming**: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
@@ -88,7 +85,6 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 </div>
 
 ---
-
 1. LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 2. Github- https://github.com/Ratnesh-181998   
 3. Streamlit - https://share.streamlit.io/user/ratnesh-181998
@@ -125,7 +121,6 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 </div>
 
 ---
-
 ## 🌐🎬 Live Demo 🚀 Try it now:
 
 Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
