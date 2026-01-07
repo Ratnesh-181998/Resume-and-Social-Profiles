@@ -116,7 +116,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 <div align="center">
 
-**Streamlit Applications**
+## Streamlit Applications
 
 </div>
 
