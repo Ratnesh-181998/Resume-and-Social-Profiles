@@ -26,6 +26,7 @@ https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pool
 ###################################################################################################################
 
 https://www.openmultipleurl.com/
+https://udlbook.github.io/udlbook/
 
 # Streamlit Applications
 
@@ -85,4 +86,5 @@ https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
 https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
 
 https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/
+
 
