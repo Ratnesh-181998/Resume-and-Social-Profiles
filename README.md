@@ -84,12 +84,11 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
   />
 </div>
 
-<div >
-## Data Scientist( Agentic AI ,GeN AI , NLP, CV, DL, ML ) 4+YOE | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RatneshS16497)
-| MS in AI & ML( https://woolf.university/id/3625948911 ) | https://x.com/WoolfUniversity , @WoolfUniversity , 📍San Francisco, California,USA & Address (548 Market St PMB 78990, San Francisco, CA 94104, USA ,Phone: +1 650-200-0788 ) | Direction-[📍 Get Directions](https://www.google.com/maps?sca_esv=6b1d8f50b92f85a4&sxsrf=AE3TifPQ7XE3vDet2pOVwjeibceYUiK9nQ:1764930305214&kgmid=/g/11j_00qqb_&shndl=30&shem=damc,lcuae,uaasie,shrtsdl&kgs=35af57b442bb2fb6&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=Ke-TVu4-gYWAMaN7si2tSauB&daddr=548+Market+St+PMB+78990,+San+Francisco,+CA+94104,+United+States)
- | https://woolf.university/ | 
+---
 
-</div>
+- ## Data Scientist( Agentic AI ,GeN AI , NLP, CV, DL, ML ) 4+YOE | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RatneshS16497)
+- ## **Master of Science in Computer Science: Artificial Intelligence and Machine Learning** ( https://woolf.university/id/3625948911 ) | https://x.com/WoolfUniversity , @WoolfUniversity , 📍San Francisco, California,USA & Address (548 Market St PMB 78990, San Francisco, CA 94104, USA ,Phone: +1 650-200-0788 ) | Direction-[📍 Get Directions](https://www.google.com/maps?sca_esv=6b1d8f50b92f85a4&sxsrf=AE3TifPQ7XE3vDet2pOVwjeibceYUiK9nQ:1764930305214&kgmid=/g/11j_00qqb_&shndl=30&shem=damc,lcuae,uaasie,shrtsdl&kgs=35af57b442bb2fb6&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=Ke-TVu4-gYWAMaN7si2tSauB&daddr=548+Market+St+PMB+78990,+San+Francisco,+CA+94104,+United+States) | https://woolf.university/ | 
+
 
 ---
 1. LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
