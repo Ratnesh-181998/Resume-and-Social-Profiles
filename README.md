@@ -85,7 +85,8 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 </div>
 
 <div >
-## Data Scientist( Agentic AI ,GeN AI , NLP, CV, DL, ML ) 4+YOE | ![X](https://x.com/RatneshS16497) | MS in AI & ML( https://woolf.university/id/3625948911 ) | https://x.com/WoolfUniversity , @WoolfUniversity , 📍 [San Francisco, California, USA](https://maps.google.com/?q=San+Francisco,+CA) | https://woolf.university/ | 
+## Data Scientist( Agentic AI ,GeN AI , NLP, CV, DL, ML ) 4+YOE | [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RatneshS16497)
+| MS in AI & ML( https://woolf.university/id/3625948911 ) | https://x.com/WoolfUniversity , @WoolfUniversity , 📍 [San Francisco, California, USA](https://maps.google.com/?q=San+Francisco,+CA) | https://woolf.university/ | 
 
 </div>
 
