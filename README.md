@@ -84,6 +84,12 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
   />
 </div>
 
+<div align="center">
+
+## Data Scientist( Agentic AI ,GeN AI , NLP, CV, DL, ML ) 4+YOE | MS in AI & ML( https://woolf.university/id/3625948911 ) | @WoolfUniversity📍San Francisco, CA | https://woolf.university/ |
+
+</div>
+
 ---
 1. LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 2. X(Twitter) - https://x.com/RatneshS16497
