@@ -45,6 +45,7 @@
 [![Agentic BI NLP-Q](https://img.shields.io/badge/AGENTIC_BI_%26_NLP_QUERYING-0891B2?style=for-the-badge)](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying)
 
 [![Python AI/ML Libraries](https://img.shields.io/badge/AI_%26_ML_LIBRARIES-0052CC?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)
+[![Python AI/ML Libraries](https://img.shields.io/badge/AI_%26_ML_LIBRARIES-334155?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)
 
 [![Agentic GenAI Frameworks](https://img.shields.io/badge/AGENTIC_GENAI_FRAMEWORKS_(MCP_%26_VectorDB)-312E81?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-Gen-AI-Frameworks-MCP-VectorDB)
 
