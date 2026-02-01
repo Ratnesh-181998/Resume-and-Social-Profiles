@@ -171,44 +171,45 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 2. https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/
 3. https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/
 4. https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/
-5. https://appudtzei3tyyttd6xjhwur.streamlit.app/
-6. https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/
-7. https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/
-8. https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/
-9. https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/
-10. https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/
+5. https://agentic-bi-natural-language-querying-xav6gvp2wxnpnn7q9caarf.streamlit.app/
+6. https://appudtzei3tyyttd6xjhwur.streamlit.app/
+7. https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/
+8. https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/
+9. https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/
+10. https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/
+11. https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/
 
-11. https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/
+12. https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/
 
-12. https://twitter-ner-system-ab12c.streamlit.app/
-13. https://tesla-autonomous-car-driving-vision-yolov5-object-detection-an.streamlit.app/
-14. https://defence-ai-multisensor-surveillance-yolov8-vusybzt9bohpykhzkq3.streamlit.app/
+13. https://twitter-ner-system-ab12c.streamlit.app/
+14. https://tesla-autonomous-car-driving-vision-yolov5-object-detection-an.streamlit.app/
+15. https://defence-ai-multisensor-surveillance-yolov8-vusybzt9bohpykhzkq3.streamlit.app/
 
-15. https://adease-time-series-analysis-drkta7i8zeotm6ayyasjj8.streamlit.app/
+16. https://adease-time-series-analysis-drkta7i8zeotm6ayyasjj8.streamlit.app/
 
-16. https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/
+17. https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/
 
-17.  https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/
+18.  https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/
 
-18. https://delhivery-logistics-analysis-dashboard-bp5ruz5asyrx4yc67j5h4i.streamlit.app/
+19. https://delhivery-logistics-analysis-dashboard-bp5ruz5asyrx4yc67j5h4i.streamlit.app/
 
-19.  https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/
+20.  https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/
 
-20. https://yulu-bike-sharing-demand-analytics-hpxhkpd9ilirthx2frxya6.streamlit.app/
+21. https://yulu-bike-sharing-demand-analytics-hpxhkpd9ilirthx2frxya6.streamlit.app/
 
-21. https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/
+22. https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/
 
-22. https://walmart-black-friday-sales-analysis-3hrmdpouwmapvucuwcg8r7.streamlit.app/
+23. https://walmart-black-friday-sales-analysis-3hrmdpouwmapvucuwcg8r7.streamlit.app/
 
-23. https://ola-driver-churn-prediction-machine-learning-mmntzrjjgxbadbxd4.streamlit.app/
+24. https://ola-driver-churn-prediction-machine-learning-mmntzrjjgxbadbxd4.streamlit.app/
 
-24. https://netflix-content-strategy-dashboard-nupabwa9bcadg5idqwngek.streamlit.app/
+25. https://netflix-content-strategy-dashboard-nupabwa9bcadg5idqwngek.streamlit.app/
 
-25. https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
+26. https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
     
-26. https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
+27. https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
     
-27. https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/
+28. https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/
 
 
 
