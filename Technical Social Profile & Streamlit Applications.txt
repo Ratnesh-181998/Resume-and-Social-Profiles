@@ -42,6 +42,8 @@ https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/
 
 https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/
 
+https://agentic-bi-natural-language-querying-xav6gvp2wxnpnn7q9caarf.streamlit.app/
+
 https://appudtzei3tyyttd6xjhwur.streamlit.app/
 
 https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/
@@ -87,6 +89,7 @@ https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
 https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
 
 https://realtime-data-pipeline-airflow-kafka-spark-cassandra-docker-7v.streamlit.app/
+
 
 
 
