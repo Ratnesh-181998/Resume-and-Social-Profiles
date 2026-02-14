@@ -9,7 +9,9 @@
 - Everything is easy, when you are busy.
 - But nothing is easy, when you are lazy.
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
@@ -34,7 +36,10 @@
 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-DC2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
 
----
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 
 - IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
   
@@ -46,7 +51,8 @@
   
 - Well-versed in designing secure, scalable, and production-ready AI systems across AWS and GCP, integrating CI/CD, observability, and MLOps/LLMOps best practices. Known for breaking down complex problems, optimizing model performance, and collaborating with cross-functional teams to deliver measurable business impact.
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <div align="center">
   <img 
@@ -55,7 +61,9 @@
   />
 </div>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 - 4+ years of hands-on experience delivering  Machine Learning (LR, SVM, Random Forest, XGBoost,SVM, Decision Trees,ARIMA, SARIMA, Timeserie,Forecasting,RL), Deep Learning (CNN, RNN, GANs, Transformers, YOLOv8),Neural Network,Computer Vision, NLP, Generative AI and Agentic AI solutions.
   
 - Strong background in Computer Vision, NLP,Text Analytics,Generative AI ,Agentic AI systems and business value analysis.
@@ -72,7 +80,8 @@
 
 - Successfully handled petabyte-scale (1PB+) data in real-world production environments.
   
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <div align="center">
   <img 
@@ -81,7 +90,9 @@
   />
 </div>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 - **Data Structure  and Algorithm** 
 - **Programming Languages**: Python, SQL, PySpark, Linux Shell Scripting 
 - **Big Data & Streaming**: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
@@ -103,8 +114,9 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 - **MLOps, LLMOps & AIOps**: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
 - **Model Deployment & Monitoring**: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
 - **Integration & API**: Developed and integrated RESTful APIs using FastAPI and FlaskAPI.
-  
----
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <div align="center">
   <img 
@@ -113,7 +125,9 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
   />
 </div>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 
 - # **Data Scientist( Agentic AI ,GeN AI , NLP, CV, DL, ML ) 4+YOE** | [![X(Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RatneshS16497)
   
@@ -131,8 +145,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 1. LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 2. X(Twitter) - https://x.com/RatneshS16497
@@ -156,7 +169,10 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 20. Supabase Cloud (Database) : https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
 21. Producthunt.com : https://www.producthunt.com/@ratnesh_kumar_singh3
 
----
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 
 <div align="center">
   <img 
@@ -171,7 +187,9 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 </div>
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 ## 🌐🎬 Live Demo 🚀 Try it now:
 
 Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
@@ -223,8 +241,6 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 
 
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
@@ -255,7 +271,8 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ratnesh138/)
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/)
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ## 📊 **GitHub Stats & Metrics** 📊
 
@@ -273,7 +290,8 @@ width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=4ECDC4&line=F38181&point=FF6B6B" width="48%" />
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Ratnesh+Kumar+Singh;Data+Scientist+%7C+AI%2FML+Engineer;4%2B+Years+Building+Production+AI+Systems" alt="Typing SVG" />
 
