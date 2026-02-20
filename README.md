@@ -162,7 +162,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 11.	GeeksforGeeks - https://www.geeksforgeeks.org/profile/ratnesh1998
 12.	CodeChef- https://www.codechef.com/users/ratnesh_181998
 13.	CodeForces - https://codeforces.com/profile/Ratnesh_181998
-14.	Kaggle- https://www.kaggle.com/rattuda
+14.	Kaggle- https://www.kaggle.com/rattuda (https://www.kaggle.com/competitions/march-machine-learning-mania-2026/overview)
 15.	Medium - https://medium.com/@rattudacsit2021gate
 16.	Stackoverflow - https://stackoverflow.com/users/32068937/ratnesh-kumar?tab=profile
 17.	HuggingFace - https://huggingface.co/RattuDa98   
