@@ -23,6 +23,7 @@
 [![MS AI/ML Woolf University](https://img.shields.io/badge/MS_Degree_AI%2FML_Woolf_University-059669?style=for-the-badge)](https://woolf.university/id/3625948911)
 [![Woolf University](https://img.shields.io/badge/Woolf_University-2563EB?style=for-the-badge)](https://woolf.university/)
 [![Scaler](https://img.shields.io/badge/Scaler-F43F5E?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
+[![DSML](https://img.shields.io/badge/DSML-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/DSML)
 [![Agentic AI & GenAI](https://img.shields.io/badge/Agentic_AI_%26_GenAI-7C3AED?style=for-the-badge&logo=openai&logoColor=FBBF24)](https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work)
 [![MCP](https://img.shields.io/badge/MCP-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
 [![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/BUILD_AGENTIC_AI_%26_GENAI_WITH_MCP-F97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)
