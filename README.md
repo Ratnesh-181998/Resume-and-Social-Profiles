@@ -139,6 +139,9 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Woolf_University-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/woolfuniversity/posts/?feedView=all)
 - [![X](https://img.shields.io/badge/X-Woolf_University-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/woolfuniversity)
 - [![YouTube](https://img.shields.io/badge/YouTube-Woolf_University-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@woolfuniversity)
+- <img width="1928" height="1105" alt="image" src="https://github.com/user-attachments/assets/ff617726-7f84-46b4-9386-f8f9468fb353" />
+- [Woolf is launching a new US-based collegiate university to help American colleges avoid decline by integrating into a shared administrative infrastructure that preserves their identity while dramatically improving sustainability, academic quality, and relevance in an AI-shaped world](https://www.linkedin.com/pulse/new-architecture-american-colleges-woolfuniversity-axtve/?trackingId=XBJPdSQVlUJ%2BXyUfgpojyA%3D%3D)
+- [A New Architecture for American Colleges](https://woolf.education/news/a-new-architecture-for-american-colleges?utm_campaign=39758421-RFP%20Launch%20Q126&utm_source=linkedin&utm_medium=social&utm_content=rfp-article-cta)
 - [PST Timezone](https://www.timeanddate.com/worldclock/usa/california)
 - [World Clock ](https://www.timeanddate.com/worldclock/)
 - [San Francisco International Airport(SFO)](https://www.flysfo.com/) <<-->> [Indira Gandhi International Airport (DEL)](https://www.newdelhiairport.in/)
