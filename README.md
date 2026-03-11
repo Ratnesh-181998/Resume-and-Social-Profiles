@@ -36,6 +36,7 @@
 [![Agentic GenAI Frameworks](https://img.shields.io/badge/AGENTIC_GENAI_FRAMEWORKS_(MCP_%26_VectorDB)-312E81?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-Gen-AI-Frameworks-MCP-VectorDB)
 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-DC2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)
 [![Modern Full-Stack Roadmap](https://img.shields.io/badge/MODERN_FULL_STACK_ROADMAP_(AI_ERA)-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Modern-Full-Stack-Development-Roadmap-AI-Era)
+[![AI Stack Comparison AWS Azure GCP](https://img.shields.io/badge/AI_STACK_COMPARISON_AWS_vs_AZURE_vs_GCP-d946ef?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/Ratnesh-181998/AI-STACK-COMPARISON-AWS-AZURE-GCP)
 
 <img width="893" height="520" alt="image" src="https://github.com/user-attachments/assets/358857f9-77ec-40d6-a2f5-a0e37a64893b" />
 
