@@ -153,7 +153,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 - <img width="543" height="138" alt="image" src="https://github.com/user-attachments/assets/05e939ac-6cf6-438d-8ca8-09e40f2003fa" />
 - <img width="2256" height="1397" alt="image" src="https://github.com/user-attachments/assets/a48380f8-de8f-4a54-bf41-4779f1b1c11c" />
 
-
+- https://www.nugget.com/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
