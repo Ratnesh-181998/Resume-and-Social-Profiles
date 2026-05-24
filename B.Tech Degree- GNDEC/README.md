@@ -17,5 +17,12 @@
 - **B.Tech Degree in Information Technology**
 
   <img width="1553" height="1129" alt="image" src="https://github.com/user-attachments/assets/323c1069-6cf5-4788-b99b-320a27b12d68" />
-  
+
+---
+
+# GNDEC ANAND UTSAV 2018
+
+<img width="935" height="1233" alt="image" src="https://github.com/user-attachments/assets/965c8e2e-ac97-44db-a37d-528847ad9eb6" />
+<img width="938" height="1254" alt="image" src="https://github.com/user-attachments/assets/620d21c8-e94c-4fe3-b088-712ec4f0c1e4" />
+
 ---
