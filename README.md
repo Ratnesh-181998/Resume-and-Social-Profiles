@@ -171,6 +171,15 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 ---
 
+# Guru Nanak Dev Engineering College, Ludhiana-141006 |Punjab| India (B.Tech - Information Technology : 2016 - 2020)
+- College website : https://www.gndec.ac.in/ 
+## College ID Card 
+<img width="1764" height="1094" alt="image" src="https://github.com/user-attachments/assets/4c39eefa-ef95-4e3b-960a-42a3d9bfeffd" />
+
+- https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/edit/main/B.Tech%20Degree-%20GNDEC/README.md
+  
+---
+
 # MADE EASY (GATE CS& IT | EXAM DELHI PREPARATIONS |DELHI |INDIA | 2018-2020 ) : https://www.madeeasy.in/
 <img width="946" height="1306" alt="image" src="https://github.com/user-attachments/assets/5d38ec3c-12ff-4eb6-af9d-2db38d6dd8ca" />
 
