@@ -159,18 +159,20 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 # 2022 - 2024 | Master of Science in Computer Science: Artificial Intelligence and Machine Learning
 
 ## Woolf University ID Card ( 2022 - 2024 )
+- Website : https://woolf.university/
 <img width="1423" height="878" alt="image" src="https://github.com/user-attachments/assets/403027ac-ae6b-4b6f-b04a-a816153ed55e" />
 <img width="1443" height="894" alt="image" src="https://github.com/user-attachments/assets/3c199fa7-7252-4543-ae98-c8dc599a3082" />
-
+- https://woolf.university/id/3625948911
 - https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/MS%20in%20AI%20and%20ML%20Degree%20-By%20Woolf%20%20University
 - https://github.com/Ratnesh-181998/DSML
 - https://www.scaler.com/academy/profile/16d9756ebf65/
 
 ---
 
-# 2018 - 2020 | GATE | CS & IT |
+# 2018 - 2020 | GATE ( Computer Science & Information Technology ) 
 
-## MADE EASY (GATE CS& IT | EXAM DELHI PREPARATIONS |DELHI |INDIA | 2018-2020 ) : https://www.madeeasy.in/
+## MADE EASY (GATE CS& IT | EXAM DELHI PREPARATIONS |DELHI |INDIA | 2018-2020 ) 
+- Website : https://www.madeeasy.in/
 <img width="946" height="1306" alt="image" src="https://github.com/user-attachments/assets/5d38ec3c-12ff-4eb6-af9d-2db38d6dd8ca" />
 
 ### MADE EASY ID CARD 2018-2019 |
@@ -184,11 +186,11 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 ---
 
-# 2016 - 2020 | B.Tech (IT ) |
+# 2016 - 2020 | B.Tech (IT ) 
 
-# Guru Nanak Dev Engineering College, Ludhiana-141006 |Punjab| India (B.Tech - Information Technology : 2016 - 2020)
+## Guru Nanak Dev Engineering College, Ludhiana-141006 |Punjab| India (B.Tech - Information Technology : 2016 - 2020)
 - College website : https://www.gndec.ac.in/ 
-## College ID Card 
+### College ID Card 
 <img width="1764" height="1094" alt="image" src="https://github.com/user-attachments/assets/4c39eefa-ef95-4e3b-960a-42a3d9bfeffd" />
 
 - https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/edit/main/B.Tech%20Degree-%20GNDEC/README.md
@@ -197,10 +199,11 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 # 2013 - 2016 | JEE | RESONANCE KOTA |
 
-# RESONANCE ( KOTA Rajasthan | INDIA | JEE EXAM PREPARATIONS | 2013 - 2015 ): https://www.resonance.ac.in/
+## RESONANCE ( KOTA Rajasthan | INDIA | JEE EXAM PREPARATIONS | PHYSICS,CHEMISTRY,MATHEMATICS(PCM)| 2013 - 2015 )
+- Website : https://www.resonance.ac.in/
 <img width="1238" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ca02f1-3e93-4a44-9030-545f7cadaace" />
 
-## RESONANCE ( KOTA Rajasthan | INDIA ) ID CARD 2014 -2015
+### RESONANCE ( KOTA Rajasthan | INDIA ) ID CARD 2014 -2015
 <img width="771" height="1122" alt="image" src="https://github.com/user-attachments/assets/8d32539f-9189-49ee-8abe-8d8e2d124c28" />
 <img width="782" height="1134" alt="image" src="https://github.com/user-attachments/assets/a7cc5ee8-38f9-40e5-ae54-8da98c7e348e" />
 <img width="730" height="1129" alt="image" src="https://github.com/user-attachments/assets/e77eac80-5132-42d0-aa2c-bf2fc58e0147" />
