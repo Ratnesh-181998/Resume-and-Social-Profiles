@@ -171,6 +171,20 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 ---
 
+# MADE EASY (GATE CS& IT | EXAM DELHI PREPARATIONS |DELHI |INDIA | 2018-2020 ) : https://www.madeeasy.in/
+<img width="946" height="1306" alt="image" src="https://github.com/user-attachments/assets/5d38ec3c-12ff-4eb6-af9d-2db38d6dd8ca" />
+
+## MADE EASY ID CARD 2018-2019
+<img width="784" height="1214" alt="image" src="https://github.com/user-attachments/assets/424cf266-6f87-4d7c-9213-9dc2205daa96" />
+
+## MADE EASY ID CARD 2019-2020
+
+<img width="773" height="1211" alt="image" src="https://github.com/user-attachments/assets/39196d83-ef58-4d66-879e-660bff71bf72" />
+
+- https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 1. LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
