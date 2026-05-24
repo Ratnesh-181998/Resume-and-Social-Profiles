@@ -154,10 +154,48 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 - <img width="543" height="138" alt="image" src="https://github.com/user-attachments/assets/05e939ac-6cf6-438d-8ca8-09e40f2003fa" />
 - <img width="2256" height="1397" alt="image" src="https://github.com/user-attachments/assets/a48380f8-de8f-4a54-bf41-4779f1b1c11c" />
 
-- https://www.nugget.com/
+---
 
+# 2022 - 2024 | Master of Science in Computer Science: Artificial Intelligence and Machine Learning
+
+## Woolf University ID Card ( 2022 - 2024 )
+<img width="1423" height="878" alt="image" src="https://github.com/user-attachments/assets/403027ac-ae6b-4b6f-b04a-a816153ed55e" />
+<img width="1443" height="894" alt="image" src="https://github.com/user-attachments/assets/3c199fa7-7252-4543-ae98-c8dc599a3082" />
+
+- https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/MS%20in%20AI%20and%20ML%20Degree%20-By%20Woolf%20%20University
+- https://github.com/Ratnesh-181998/DSML
+- https://www.scaler.com/academy/profile/16d9756ebf65/
 
 ---
+
+# 2018 - 2020 | GATE | CS & IT |
+
+## MADE EASY (GATE CS& IT | EXAM DELHI PREPARATIONS |DELHI |INDIA | 2018-2020 ) : https://www.madeeasy.in/
+<img width="946" height="1306" alt="image" src="https://github.com/user-attachments/assets/5d38ec3c-12ff-4eb6-af9d-2db38d6dd8ca" />
+
+### MADE EASY ID CARD 2018-2019 |
+<img width="784" height="1214" alt="image" src="https://github.com/user-attachments/assets/424cf266-6f87-4d7c-9213-9dc2205daa96" />
+
+### MADE EASY ID CARD 2019-2020 |
+
+<img width="773" height="1211" alt="image" src="https://github.com/user-attachments/assets/39196d83-ef58-4d66-879e-660bff71bf72" />
+
+- https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019
+
+---
+
+# 2016 - 2020 | B.Tech (IT ) |
+
+# Guru Nanak Dev Engineering College, Ludhiana-141006 |Punjab| India (B.Tech - Information Technology : 2016 - 2020)
+- College website : https://www.gndec.ac.in/ 
+## College ID Card 
+<img width="1764" height="1094" alt="image" src="https://github.com/user-attachments/assets/4c39eefa-ef95-4e3b-960a-42a3d9bfeffd" />
+
+- https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/edit/main/B.Tech%20Degree-%20GNDEC/README.md
+  
+---
+
+# 2013 - 2016 | JEE | RESONANCE KOTA |
 
 # RESONANCE ( KOTA Rajasthan | INDIA | JEE EXAM PREPARATIONS | 2013 - 2015 ): https://www.resonance.ac.in/
 <img width="1238" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ca02f1-3e93-4a44-9030-545f7cadaace" />
@@ -171,28 +209,6 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 ---
 
-# Guru Nanak Dev Engineering College, Ludhiana-141006 |Punjab| India (B.Tech - Information Technology : 2016 - 2020)
-- College website : https://www.gndec.ac.in/ 
-## College ID Card 
-<img width="1764" height="1094" alt="image" src="https://github.com/user-attachments/assets/4c39eefa-ef95-4e3b-960a-42a3d9bfeffd" />
-
-- https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/edit/main/B.Tech%20Degree-%20GNDEC/README.md
-  
----
-
-# MADE EASY (GATE CS& IT | EXAM DELHI PREPARATIONS |DELHI |INDIA | 2018-2020 ) : https://www.madeeasy.in/
-<img width="946" height="1306" alt="image" src="https://github.com/user-attachments/assets/5d38ec3c-12ff-4eb6-af9d-2db38d6dd8ca" />
-
-## MADE EASY ID CARD 2018-2019
-<img width="784" height="1214" alt="image" src="https://github.com/user-attachments/assets/424cf266-6f87-4d7c-9213-9dc2205daa96" />
-
-## MADE EASY ID CARD 2019-2020
-
-<img width="773" height="1211" alt="image" src="https://github.com/user-attachments/assets/39196d83-ef58-4d66-879e-660bff71bf72" />
-
-- https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
