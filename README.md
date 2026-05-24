@@ -202,7 +202,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
   
 ---
 
-# 2013 - 2016 | JEE | RESONANCE KOTA |
+# 2013 - 2016 | JEE EXAM |RESONANCE | KOTA | INDIA | 
 
 ## RESONANCE ( KOTA Rajasthan | INDIA | JEE EXAM PREPARATIONS | PHYSICS,CHEMISTRY,MATHEMATICS(PCM)| 2013 - 2015 )
 - Website : https://www.resonance.ac.in/
