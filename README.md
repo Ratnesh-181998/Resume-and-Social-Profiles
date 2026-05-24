@@ -158,6 +158,10 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 
 # 2022 - 2024 | Master of Science in Computer Science: Artificial Intelligence and Machine Learning
 
+- [![Woolf University](https://img.shields.io/badge/MS_Degree_2022_AI%2FML_Woolf_University-059669?style=for-the-badge)](https://woolf.university/id/3625948911)
+[![Woolf University](https://img.shields.io/badge/Woolf_University-0A66C2?style=for-the-badge)](https://woolf.university/)
+[![Scaler](https://img.shields.io/badge/Scaler_2022_(Bengaluru_Karnataka_INDIA)-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
+[![DSML](https://img.shields.io/badge/DSML_2022_(Bengaluru_Karnataka_INDIA)-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/DSML)
 ## Woolf University ID Card ( 2022 - 2024 )
 - Website : https://woolf.university/
   
@@ -175,7 +179,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 ---
 
 # 2018 - 2020 | GATE ( Computer Science & Information Technology ) 
-
+- [![MADE EASY(DELHI|INDIA)GATE CS IT 2019](https://img.shields.io/badge/GATE_2019_COMPUTER_SCIENCE_%26_IT_(MADE_EASY_DELHI_INDIA)-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)
 ## MADE EASY (GATE CS& IT | EXAM DELHI PREPARATIONS |DELHI |INDIA | 2018-2020 ) 
 - Website : https://www.madeeasy.in/
 <img width="946" height="1306" alt="image" src="https://github.com/user-attachments/assets/5d38ec3c-12ff-4eb6-af9d-2db38d6dd8ca" />
@@ -203,7 +207,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 ---
 
 # 2013 - 2016 | JEE EXAM |RESONANCE | KOTA | INDIA | 
-
+- [![RESONANCE(KOTA Rajasthan|INDIA)JEE 2015 Mathematics](https://img.shields.io/badge/JEE_2015_MATHEMATICS_11th_%26_12th_(RESONANCE_KOTA_Rajasthan_INDIA)-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
 ## RESONANCE ( KOTA Rajasthan | INDIA | JEE EXAM PREPARATIONS | PHYSICS,CHEMISTRY,MATHEMATICS(PCM)| 2013 - 2015 )
 - Website : https://www.resonance.ac.in/
 <img width="1238" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ca02f1-3e93-4a44-9030-545f7cadaace" />
