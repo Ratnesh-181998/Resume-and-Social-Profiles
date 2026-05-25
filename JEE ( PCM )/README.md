@@ -1,5 +1,7 @@
 # JEE EXAM PHYSICS,CHEMISTRY,MATHEMATICS(PCM )
 
+[![RESONANCE(KOTA Rajasthan|INDIA)JEE 2015 Mathematics](https://img.shields.io/badge/JEE_2015_MATHEMATICS_11th_%26_12th_(RESONANCE_KOTA_Rajasthan_INDIA)-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # SHORT SUMMARY ( BY RATNESH KUMAR SINGH | RESONANCE KOTA )
