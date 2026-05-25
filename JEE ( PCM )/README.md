@@ -16,12 +16,9 @@
 
 # SHORT SUMMARY ( BY RATNESH KUMAR SINGH | RESONANCE KOTA )
 
-<img width="1238" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ca02f1-3e93-4a44-9030-545f7cadaace" />
 
-# RESONANCE ( KOTA Rajasthan | INDIA ) ID CARD 2014 -2015
-<img width="771" height="1122" alt="image" src="https://github.com/user-attachments/assets/8d32539f-9189-49ee-8abe-8d8e2d124c28" />
-<img width="782" height="1134" alt="image" src="https://github.com/user-attachments/assets/a7cc5ee8-38f9-40e5-ae54-8da98c7e348e" />
-<img width="730" height="1129" alt="image" src="https://github.com/user-attachments/assets/e77eac80-5132-42d0-aa2c-bf2fc58e0147" />
+## RESONANCE ( KOTA Rajasthan | INDIA ) ID CARD 2014 -2015
+
 <img width="779" height="1072" alt="image" src="https://github.com/user-attachments/assets/1bdc8ab8-c110-4363-a0a2-e21493e67a4a" />
 <img width="792" height="1041" alt="image" src="https://github.com/user-attachments/assets/1ed31be7-69a8-4370-b72c-2ca03107f5a1" />
 <img width="786" height="1004" alt="image" src="https://github.com/user-attachments/assets/a284750c-23d2-471d-b82e-ddf3e7ec862b" />
