@@ -1,12 +1,21 @@
-# JEE EXAM PHYSICS,CHEMISTRY,MATHEMATICS(PCM )
+# JEE EXAM PHYSICS,CHEMISTRY,MATHEMATICS(PCM ) 
 
-[![RESONANCE(KOTA Rajasthan|INDIA)JEE 2015 Mathematics](https://img.shields.io/badge/JEE_2015_MATHEMATICS_11th_%26_12th_(RESONANCE_KOTA_Rajasthan_INDIA)-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
+# 2013 - 2016 | JEE EXAM |RESONANCE | KOTA | INDIA | 
+- [![RESONANCE(KOTA Rajasthan|INDIA)JEE 2015 Mathematics](https://img.shields.io/badge/JEE_2015_MATHEMATICS_11th_%26_12th_(RESONANCE_KOTA_Rajasthan_INDIA)-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
+## RESONANCE ( KOTA Rajasthan | INDIA | JEE EXAM PREPARATIONS | PHYSICS,CHEMISTRY,MATHEMATICS(PCM)| 2013 - 2015 )
+- Website : https://www.resonance.ac.in/
+<img width="1238" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ca02f1-3e93-4a44-9030-545f7cadaace" />
+
+### RESONANCE ( KOTA Rajasthan | INDIA ) ID CARD 2014 -2015
+<img width="771" height="1122" alt="image" src="https://github.com/user-attachments/assets/8d32539f-9189-49ee-8abe-8d8e2d124c28" />
+<img width="782" height="1134" alt="image" src="https://github.com/user-attachments/assets/a7cc5ee8-38f9-40e5-ae54-8da98c7e348e" />
+<img width="730" height="1129" alt="image" src="https://github.com/user-attachments/assets/e77eac80-5132-42d0-aa2c-bf2fc58e0147" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # SHORT SUMMARY ( BY RATNESH KUMAR SINGH | RESONANCE KOTA )
 
-## RESONANCE ( KOTA Rajasthan | INDIA ): https://www.resonance.ac.in/
 <img width="1238" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ca02f1-3e93-4a44-9030-545f7cadaace" />
 
 # RESONANCE ( KOTA Rajasthan | INDIA ) ID CARD 2014 -2015
