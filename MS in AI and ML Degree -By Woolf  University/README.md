@@ -1,5 +1,7 @@
 
 ***Woolf University Globally Recognized Accredited Degrees Online***
+
+# 2022 - 2024 | Master of Science in Computer Science: Artificial Intelligence and Machine Learning
 ---
 - **Woolf University( https://woolf.university/)**: A global higher education institution that operates within the European Higher Education Area. 
 - **Key features**: It uses a collegiate system, similar to Oxford, where individual colleges are independent but part of the larger university. It offers online degrees that are widely recognized across 60+ countries due to its accreditation. 
