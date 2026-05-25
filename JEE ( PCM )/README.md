@@ -135,3 +135,38 @@ This repository contains important Mathematics topics for:
 
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+##  11th MATHEMATICS
+
+### 11th ALGEBRA
+
+<img width="1574" height="1196" alt="image" src="https://github.com/user-attachments/assets/b74862d9-3441-430d-94f0-06ddcba3461d" />
+<img width="1570" height="1098" alt="image" src="https://github.com/user-attachments/assets/ee1961a9-4280-4711-a0b9-c4673fb30cf5" />
+<img width="2232" height="1162" alt="image" src="https://github.com/user-attachments/assets/c7757e5b-77ca-48e4-9ee5-f09b4e2ce7c5" />
+<img width="1816" height="1136" alt="image" src="https://github.com/user-attachments/assets/6216ebed-3d79-4326-9e4d-f6516a93a0fa" />
+
+- Content's
+<img width="824" height="1158" alt="image" src="https://github.com/user-attachments/assets/e50de40c-6e2e-465f-9a9b-5dc17cd96a77" />
+<img width="784" height="1166" alt="image" src="https://github.com/user-attachments/assets/2e38b3e0-1a8d-48e2-83e6-37443c1dc129" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+
+## 12th MATHEMATICS
+
+### 12th ALGEBRA
+<img width="1574" height="1196" alt="image" src="https://github.com/user-attachments/assets/b74862d9-3441-430d-94f0-06ddcba3461d" />
+<img width="1570" height="1098" alt="image" src="https://github.com/user-attachments/assets/ee1961a9-4280-4711-a0b9-c4673fb30cf5" />
+<img width="2232" height="1162" alt="image" src="https://github.com/user-attachments/assets/c7757e5b-77ca-48e4-9ee5-f09b4e2ce7c5" />
+<img width="2326" height="988" alt="image" src="https://github.com/user-attachments/assets/dbcdaf1e-d87c-466d-8c02-1b433f3d269b" />
+
+- Content's
+<img width="834" height="1156" alt="image" src="https://github.com/user-attachments/assets/e6ac4a79-33ea-4191-9aea-1944c5796a01" />
+<img width="766" height="1022" alt="image" src="https://github.com/user-attachments/assets/e7507038-ad70-45b9-bc9b-efed10358bca" />
+<img width="1480" height="1150" alt="image" src="https://github.com/user-attachments/assets/7bd62db2-19bf-4b0f-8818-feb7cdbce2b6" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
