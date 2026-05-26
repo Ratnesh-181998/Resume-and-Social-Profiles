@@ -39,9 +39,12 @@
 - Degree accreditation level: ECTS Accredited (EQF7)
 - Degree completion status: Completed
 - Date of award: 04 July 2024
-- Official accreditation information: Degree listing on MFHEA website in Europe : https://qualifications.mfhea.gov.mt/#/qualifications?awardingBody=MFHEA-ORG-048&search=true
 - Average (percent): 99%
 - Cumulative GPA: 4
+- Official accreditation information: Degree listing on MFHEA website in Europe : https://qualifications.mfhea.gov.mt/#/qualifications?awardingBody=MFHEA-ORG-048&search=true
+  
+<img width="2844" height="1473" alt="image" src="https://github.com/user-attachments/assets/efc84cb1-211b-4d28-9e7e-befe14a379dc" />
+<img width="2808" height="1472" alt="image" src="https://github.com/user-attachments/assets/8645e741-304c-40dc-adce-926496aca0b6" />
 
 ---
 
