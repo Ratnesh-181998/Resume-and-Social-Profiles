@@ -49,7 +49,7 @@
 
 
 - IT Professional with 4+ years of experience in the development and implementation of AI/ML-driven software applications.
-  
+- https://github.com/Ratnesh-181998/MY-IT-Work-Experience
 - Data Scientist (AI/ML Engineer) with 4+ years of experience building, deploying, and optimizing end-to-end Machine Learning, Deep Learning,NLP, Generative AI, and Agentic AI systems at scale. Proven expertise in handling petabyte-scale (1PB+) datasets, developing real-time data pipelines, and delivering production-grade AI solutions across cloud environments.
   
 - Experienced across the full AI/ML lifecycle—from data engineering, model development, and evaluation to API-driven deployment, cloud infrastructure, and monitoring. Strong hands-on expertise in Machine Learning (LR, SVM, Random Forest, XGBoost,SVM, Decision Trees,ARIMA, SARIMA, Timeserie,Forecasting,RL), Deep Learning (CNN, RNN, GANs, Transformers, YOLOv8),Neural Network,Computer Vision, NLP, Generative AI and Agentic AI.
