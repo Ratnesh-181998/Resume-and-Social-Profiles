@@ -31,6 +31,10 @@ https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7ab
 https://mlsysbook.ai/
 https://www.stratascratch.com/
 https://datalemur.com/
+https://aiml.com/
+https://www.amanailab.com/
+https://www.stackedml.com/
+https://www.datainterview.com/
 https://www.openmultipleurl.com/
 
 
