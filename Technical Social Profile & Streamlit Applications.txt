@@ -22,6 +22,15 @@ https://huggingface.co/RattuDa98
 https://dashboard.render.com/project/prj-d4kore8gjchc73aall0g
 https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
 https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
+-------------------
+https://udlbook.github.io/udlbook/
+https://dataintervu.in/
+https://www.interviewqs.com/
+https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
+https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
+https://mlsysbook.ai/
+https://www.stratascratch.com/
+https://datalemur.com/
 https://www.openmultipleurl.com/
 
 
