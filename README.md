@@ -121,6 +121,25 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 - **Model Deployment & Monitoring**: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
 - **Integration & API**: Developed and integrated RESTful APIs using FastAPI and FlaskAPI.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+## 🎓 Educational Degree's 
+
+| Duration | Institute | Degree & Specialization | GPA / CGPA | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Aug 2022 - 2024** | **Woolf University** | **Master of Science (MS)**<br>Computer Science: Artificial intelligence and Machine Learning | **4.0 / 4.0 GPA** | [College](https://woolf.university) \| [Degree](https://woolf.university/id/3625948911) \| [Academic institution](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/MS%20in%20AI%20and%20ML%20Degree%20-By%20Woolf%20%20University) |
+| **Jul 2016 - 2020** | **Guru Nanak Dev Engineering College** | **Bachelor of Technology (B.Tech)**<br>Information Technology | **7.34 / 10.0 CGPA** | [College](https://gndec.ac.in) \| [Degree](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/B.Tech%20Degree-%20GNDEC) |
+
+## 🎓 Educational Institute's
+
+| Duration | Institute | Learning & Specialization |Links |
+| :--- | :--- | :--- |:--- |
+| **May 2022 - 2024** | **SCALER (Bengaluru-Karnataka)** | **DSML**<br>Data Science & Machine Learning | [Website](https://www.scaler.com/academy/profile/16d9756ebf65/) \| [Short Detail](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/DSML) \| [Academic institution](https://github.com/Ratnesh-181998/DSML)|
+| **Feb 2018 - 2020** | **MADE EASY (DELHI,INDIA)** | **GATE EXAM**<br>Computer Science & Information Technology | [Website](https://www.madeeasy.in/) \| [Short Detail](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/GATE%20(%20CS%20%26%20IT%20)) \| [Academic institution](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)|
+| **Mar 2013 - 2016** | **RESONANCE (KOTA-Rajasthan,INDIA)** | **JEE EXAM**<br>PHYSICS,CHEMISTRY,MATHEMATICS| [Website](https://www.resonance.ac.in/) \| [Short Detail](https://github.com/Ratnesh-181998/Resume-and-Social-Profiles/tree/main/JEE%20(%20PCM%20)) \| [Academic institution](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
