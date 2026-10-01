@@ -381,12 +381,21 @@ Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 ![Profile Views](https://komarev.com/ghpvc/?username=Ratnesh-181998&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-
+<!--
 <img 
   src="https://streak-stats.demolab.com?user=Ratnesh-181998&theme=radical&hide_border=true&background=0D1117&stroke=4ECDC4&ring=F38181&fire=FF6B6B&currStreakLabel=4ECDC4"
   alt="GitHub Streak Stats"
 width="48%"/>
 
+-->
+
+<!--
+<div align="center">
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=667EEA&line=4FACFE&point=E6EDF3)
+</div>
+  -->
+
+![Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=667EEA&line=4FACFE&point=E6EDF3)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratnesh-181998&theme=react-dark&hide_border=true&bg_color=0D1117&color=4ECDC4&line=F38181&point=FF6B6B" width="48%" />
 
